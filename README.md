@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <div align="center">
   <img src="./assets/images/banner.svg" alt="Preethika C Banner" width="100%" />
 </div>
@@ -214,8 +214,7 @@
     </td>
   </tr>
 </table>
-=======
-## Hi there 👋
+
 
 <!--
 **sudhapreethika76-eng/sudhapreethika76-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -231,4 +230,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
->>>>>>> 54eefd5c12c0b1fa23596cdf2f05ff857b18ac83
+
